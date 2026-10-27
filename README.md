@@ -1,121 +1,113 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Samruddhi Pharakate
+# Samruddhi Pharakate
 
-### 💻 Computer Engineering Student | Aspiring Web Developer
+### Computer Engineering Student | Aspiring Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Third-Year+Computer+Engineering+Student;Aspiring+Web+Developer;Building+Projects+and+Learning+Every+Day;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Projects+%26+Learning;Web+Development+Enthusiast;Dream+%7C+Learn+%7C+Build+%7C+Grow)](https://git.io/typing-svg)
 
-📍 India | 🎓 Computer Engineering | 🚀 Future Software Developer
+**CGPA: 8.41** · Third-Year Computer Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[GitHub](https://github.com/) · [LinkedIn](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
 - 🎓 Third-year Computer Engineering student
-- 📊 Academic CGPA: **8.41**
 - 💻 Interested in web development and software engineering
-- 🌱 Currently strengthening my skills in JavaScript and React
-- 🛠️ Enjoy building projects and solving programming problems
-- 🎯 Goal: Gain practical experience through internships and build impactful applications
-- ✨ Believe in learning, consistency, and continuous improvement
+- 🌱 Learning and building with JavaScript and React
+- 🧩 Interested in problem-solving and real-world applications
+- 🎯 Seeking opportunities to grow through software development internships
+
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-### 👨‍💻 Programming Languages
+### 1. EduGuide – Career Path and College Suggestion Portal
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+A portal designed to help 12th Science students explore Maharashtra engineering colleges based on MHT-CET percentile or JEE scores.
 
-### 🌐 Web Development
+- College and branch cutoff comparison
+- Category-wise admission guidance
+- CAP-round guidance and admission probability estimates
+- Career and skill guidance for engineering students
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+**Technologies:** HTML, CSS, JavaScript, React, MySQL
 
-### 🗄️ Database
+### 2. AI-Based Cyber Threat Detection
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+A cybersecurity project that analyzes unidirectional IP traffic to identify and correlate potential cyber threats.
 
-### 🔧 Tools
+- Network traffic analysis using Zeek
+- Threat correlation and risk scoring
+- MITRE ATT&CK mapping
+- Dashboard for threat visualization
+- AI-generated explanations of detected threats
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+**Technologies:** Python, FastAPI, React, Zeek, Redis, NetworkX
 
----
+### 3. Intelligent Traffic Control System
 
-## 🚀 Featured Projects
+An adaptive traffic signal system that estimates signal timings using road occupancy and vehicle detection.
 
-🔹 **Web Development Projects**
-> Building responsive and user-friendly web applications using HTML, CSS, JavaScript, and React.
+- Vehicle detection using YOLOv8
+- Road-region occupancy estimation
+- Dynamic green-signal timing
+- Designed for Indian four-way intersections
 
-🔹 **Academic Projects**
-> Exploring real-world problem-solving through engineering projects and technology.
-
-🔹 **Programming Practice**
-> Improving logical thinking and coding skills with C++, Java, and problem-solving challenges.
-
-<!-- Replace the descriptions above with your actual project names and repository links. -->
+**Technologies:** Python, YOLOv8, OpenCV, Raspberry Pi
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 My Goals
+## Current Goals
 
-- [ ] Build more real-world web development projects
-- [ ] Strengthen React and JavaScript skills
-- [ ] Improve data structures and algorithms
-- [ ] Contribute to open-source projects
-- [ ] Secure a software development internship
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in learning, collaborating on projects, and connecting with fellow developers.
-
-📧 **Email:** YOUR_EMAIL_ADDRESS
-
-💼 **LinkedIn:** YOUR_LINKEDIN_PROFILE
-
----
+- Build responsive web applications
+- Strengthen JavaScript and React skills
+- Improve DSA and problem-solving
+- Contribute to collaborative projects
+- Gain practical industry experience
 
 <div align="center">
 
-### ✨ "Quietly growing, consistently building." ✨
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF" alt="Profile Views" />
+### Dream · Learn · Build · Grow ✨
 
 </div>
